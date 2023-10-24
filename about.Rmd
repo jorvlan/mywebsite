@@ -1,0 +1,12 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the website
+---
+
+Hello, this is Jordy, I am testing this tutorial.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
